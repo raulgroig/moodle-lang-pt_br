@@ -8,4 +8,7 @@
  * Data: 
  */
 
+$string['defaultelements'] = 'Default elements';
+$string['sections'] = 'Sections';
+$string['showallsections'] = 'Show All Sections';
 $string['structure'] = 'Structure';

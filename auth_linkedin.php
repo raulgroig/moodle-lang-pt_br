@@ -8,4 +8,5 @@
  * Data: 
  */
 
+$string['auth_linkedindescription'] = 'Before you can used the sign in with linkedin plugins you need to register you Moodle installation on the linkedin Dev website';
 $string['pluginname'] = 'LinkedinAuth';

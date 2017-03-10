@@ -8,6 +8,7 @@
  * Data: 
  */
 
+$string['browserepositories'] = 'Browse repositories...';
 $string['optionconsolecommand_help'] = 'Customize molecule display using console commands.
 
 * Command documentation: http://chemapps.stolaf.edu/jmol/docs

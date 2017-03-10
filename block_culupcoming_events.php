@@ -8,4 +8,10 @@
  * Data: 
  */
 
+$string['anon'] = 'Picture of Anon';
+$string['blocktitlecourse'] = 'Module events';
+$string['nomoreevents'] = 'No more events';
+$string['second'] = 'second';
+$string['sooner'] = 'Sooner';
+$string['time'] = 'in about {$a}';
 $string['visit'] = 'Visit';

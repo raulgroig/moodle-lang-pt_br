@@ -8,4 +8,5 @@
  * Data: 
  */
 
+$string['amountascending'] = 'Ratingamount: asc';
 $string['amountdescending'] = 'Ratingamount: desc';

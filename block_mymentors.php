@@ -8,4 +8,7 @@
  * Data: 
  */
 
+$string['configtitle'] = 'Block title';
+$string['mymentors:addinstance'] = 'Add a My mentors block';
+$string['mymentors:myaddinstance'] = 'Add a My mentors block to My Moodle';
 $string['pluginname'] = 'My mentors';

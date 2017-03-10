@@ -8,4 +8,5 @@
  * Data: 
  */
 
+$string['choosereadme'] = 'Acme by BananaByte.More commercial themes at demo.bananabyte.com.br';
 $string['pluginname'] = 'Acme banana';

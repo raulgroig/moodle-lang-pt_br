@@ -8,4 +8,9 @@
  * Data: 
  */
 
+$string['cancelmail_desc'] = '';
+$string['cancelmailsubject_desc'] = '';
+$string['confirmmail_desc'] = '';
+$string['confirmmailsubject_desc'] = '';
+$string['waitmail_desc'] = '';
 $string['waitmailsubject_desc'] = '';

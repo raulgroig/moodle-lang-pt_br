@@ -8,4 +8,8 @@
  * Data: 
  */
 
+$string['data'] = 'Data';
+$string['element'] = 'Elements';
+$string['pluginname'] = 'Question trends';
+$string['questioncount'] = 'Question count';
 $string['questionfreq'] = 'Question {$a}';

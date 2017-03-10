@@ -8,4 +8,7 @@
  * Data: 
  */
 
+$string['blockstring'] = 'My Grades string';
+$string['blocktitle'] = 'My Grades';
+$string['my_grades'] = 'My Grades';
 $string['pluginname'] = 'My Grades report';

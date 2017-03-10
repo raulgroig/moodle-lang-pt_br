@@ -8,4 +8,8 @@
  * Data: 
  */
 
+$string['created'] = '{$a} created';
+$string['incourse'] = 'in {$a}.';
+$string['messageprovider:course_updates'] = 'Course updates';
+$string['processqueue'] = 'Process the queue of course update messages';
 $string['updated'] = '{$a} updated';

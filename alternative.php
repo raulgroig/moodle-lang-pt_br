@@ -8,4 +8,5 @@
  * Data: 
  */
 
+$string['instructionsgeneral'] = '';
 $string['messageprovider:reminder'] = 'mod/alternative student reminder';

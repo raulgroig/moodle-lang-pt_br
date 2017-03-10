@@ -8,4 +8,7 @@
  * Data: 
  */
 
+$string['eventrequestsent'] = 'Recommendation request sent';
+$string['requestsent'] = 'Recommendation request sent';
+$string['resend'] = 'Re-send request';
 $string['sendnow'] = 'Send without delay';

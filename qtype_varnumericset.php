@@ -8,4 +8,6 @@
  * Data: 
  */
 
+$string['pluginname_link'] = 'question/type/varnumericset';
+$string['variables'] = 'Variables';
 $string['varnumericset_link'] = 'question/type/varnumericset';

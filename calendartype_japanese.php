@@ -8,4 +8,10 @@
  * Data: 
  */
 
+$string['am'] = 'am';
+$string['day'] = '';
+$string['emperor'] = 'Empiric';
+$string['gregorian'] = 'Gegorian';
+$string['japaneseyeartype'] = 'Japanese year type';
+$string['month'] = '{$a}';
 $string['pm'] = 'pm';

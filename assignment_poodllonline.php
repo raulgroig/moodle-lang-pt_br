@@ -8,4 +8,5 @@
  * Data: 
  */
 
+$string['replymp3voice'] = 'Voice(MP3 recorder) Only';
 $string['replytalkback'] = 'Voice via Talkback Widget';

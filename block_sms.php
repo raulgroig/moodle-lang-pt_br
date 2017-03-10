@@ -8,4 +8,5 @@
  * Data: 
  */
 
+$string['usernumber'] = 'Numbers';
 $string['valid_key'] = 'Your key IS VALID';
